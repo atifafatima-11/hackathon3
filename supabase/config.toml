@@ -1,0 +1,3 @@
+[functions.recallops-api]
+verify_jwt = false
+entrypoint = "./functions/recallops-api/index.ts"
